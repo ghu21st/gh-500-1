@@ -20,3 +20,4 @@ Policy
 See GitHub's Safe Harbor Policy
 Added more security policy at here. email to ghu21st@gmail.com
 Adding more information in the security details
+new info from 08/11 - 1
